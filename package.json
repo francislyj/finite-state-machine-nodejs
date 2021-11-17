@@ -1,0 +1,27 @@
+{
+  "name": "finite-state-machine-nodejs",
+  "version": "1.0.0",
+  "description": "finite state machine",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francislyj/finite-state-machine-nodejs.git"
+  },
+  "keywords": [
+    "finite",
+    "state",
+    "machine"
+  ],
+  "author": "yijun.liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francislyj/finite-state-machine-nodejs/issues"
+  },
+  "homepage": "https://github.com/francislyj/finite-state-machine-nodejs#readme"
+}
